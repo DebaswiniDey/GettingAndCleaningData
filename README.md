@@ -1,16 +1,16 @@
-~Title~
+*Title*
 Coursera: Getting And Cleaning Data Assignment
 
-~Purpose~
+*Purpose*
 Submission for "Getting And Cleaning Data" Assignment for the Coursera course by John Hopkins University
 
-~Author~
+*Author*
 Debaswini Dey
 
-~Dataset~
+*Dataset*
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-~Added Files~
+*Added Files*
 CodeBook.md: A codebook, as asked by the instructor, that details out the variables and methods used to clean the data.
 
 run_analysis.R: A script, as asked by the instructor, that prepares and slices the data based on the instructions provided in the question.
